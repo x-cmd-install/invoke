@@ -7,7 +7,7 @@ about:
   head: 6a71e68
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:55:39Z
+  collectedAt: 2026-09-04T20:50:39Z
 timeline:
   created: 2012-02-29
   lastCommit: 2026-04-07
@@ -81,6 +81,59 @@ total:
   openIssue: 352
   commit: 3782
 ---
+path: /home/runner/.x-repo/github.com/pyinvoke/invoke
+collectedAt: 2026-09-04T20:50:40Z
+loc:
+  Python:
+    code: 19807
+    comments: 2788
+    blanks: 3227
+    files: 132
+  ReStructuredText:
+    code: 3912
+    comments: 0
+    blanks: 1108
+    files: 33
+  Css:
+    code: 581
+    comments: 64
+    blanks: 121
+    files: 1
+  Json:
+    code: 134
+    comments: 0
+    blanks: 0
+    files: 5
+  Toml:
+    code: 82
+    comments: 10
+    blanks: 16
+    files: 1
+  Yaml:
+    code: 27
+    comments: 1
+    blanks: 0
+    files: 12
+  Autoconf:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  Ini:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 5
+    blanks: 2
+    files: 1
+total:
+  code: 24557
+  comments: 2868
+  blanks: 4474
+  files: 187
 ---
 date: "2026-08-24"
 repo:
