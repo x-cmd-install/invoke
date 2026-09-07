@@ -5,7 +5,7 @@ about:
   head: 6a71e68
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T05:33:48Z
+  collectedAt: 2026-09-07T18:56:30Z
 timeline:
   created: 2012-02-29
   lastCommit: 2026-04-07
@@ -80,7 +80,7 @@ total:
   commit: 3782
 ---
 path: /home/runner/.x-repo/github.com/pyinvoke/invoke
-collectedAt: 2026-09-07T05:33:50Z
+collectedAt: 2026-09-07T18:56:33Z
 loc:
   Python:
     code: 19807
@@ -210,7 +210,7 @@ checks:
     details: null
 ---
 eget:
-  collectedAt: 2026-09-07T05:33:51+00:00
+  collectedAt: 2026-09-07T18:56:34+00:00
   platform:
     darwin/arm64:
       name:  null
