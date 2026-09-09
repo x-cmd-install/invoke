@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:42:34Z
+  collectedAt: 2026-09-09T19:54:06Z
 timeline:
   created: 2012-02-29
   lastCommit: 2026-04-07
@@ -84,7 +84,7 @@ total:
   commit: 3782
 ---
 path: /home/runner/.x-repo/github.com/pyinvoke/invoke
-collectedAt: 2026-09-09T05:42:37Z
+collectedAt: 2026-09-09T19:54:10Z
 loc:
   Python:
     code: 19807
