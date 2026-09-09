@@ -7,7 +7,7 @@ Pythonic task management & command execution.
 - **Latest release**: `` (n/a)
 - **Last commit**: 2026-04-07
 - **License**: BSD-2-Clause
-- **Stars**: 4775 · **Forks**: 408 · **Open issues**: 771 · **Contributors**: 55
+- **Stars**: 4776 · **Forks**: 408 · **Open issues**: 771 · **Contributors**: 55
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/invoke> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:48:20Z._
+_Last regenerated: 2026-09-09T05:42:40Z._
