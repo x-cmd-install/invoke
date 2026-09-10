@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:42:56Z
+  collectedAt: 2026-09-10T17:44:21Z
 timeline:
   created: 2012-02-29
   lastCommit: 2026-04-07
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 4777
   watcher: 93
-  fork: 408
+  fork: 409
   release: 0
   contributor: 55
   pullRequest: 288
@@ -84,7 +84,7 @@ total:
   commit: 3782
 ---
 path: /home/runner/.x-repo/github.com/pyinvoke/invoke
-collectedAt: 2026-09-10T05:42:57Z
+collectedAt: 2026-09-10T17:44:23Z
 loc:
   Python:
     code: 19807
