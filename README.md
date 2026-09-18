@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,776 · **Forks**: 410 · **Open issues**: 771 · **Contributors**: 55
+- **Stars**: 4,777 · **Forks**: 411 · **Open issues**: 771 · **Contributors**: 55
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-19 | 0 | 0 | 8 | 0 | 2 | 0 |
-| 90d | 2026-06-19 | 0 | 0 | 10 | 0 | 2 | 0 |
-| last180d | 2026-03-21 | 0 | 0 | 13 | 1 | 11 | 26 |
-| 360d | 2025-09-22 | 0 | 1 | 17 | 3 | 14 | 59 |
-| last720d | 2024-09-27 | 0 | 2 | 29 | 8 | 29 | 81 |
+| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-20 | 0 | 0 | 8 | 0 | 2 | 0 |
+| 90d | 2026-06-20 | 0 | 0 | 10 | 0 | 2 | 0 |
+| last180d | 2026-03-22 | 0 | 0 | 13 | 1 | 11 | 26 |
+| 360d | 2025-09-23 | 0 | 1 | 17 | 3 | 14 | 59 |
+| last720d | 2024-09-28 | 0 | 2 | 29 | 8 | 29 | 81 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for invoke lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:05:08Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:51:39Z._
