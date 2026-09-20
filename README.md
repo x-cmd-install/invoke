@@ -4,7 +4,7 @@
 
 Pythonic task management & command execution.
 
-![invoke](https://repo.x-cmd.io/invoke.svg)
+[![x-cmd/install — invoke Code Quality Monitoring Repo Card](https://repo.x-cmd.io/invoke.svg)](https://x-cmd.com/install/invoke)
 
 ## Install
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,777 · **Forks**: 411 · **Open issues**: 771 · **Contributors**: 55
+- **Stars**: 4,777 · **Forks**: 412 · **Open issues**: 771 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 70 · **Open PRs**: 110 · **Closed issues**: 419 · **Open issues**: 352 · **Commits**: 3782
+- **Releases**: 0 · **Merged PRs**: 70 · **Open PRs**: 111 · **Closed issues**: 419 · **Open issues**: 352 · **Commits**: 3782
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 8 | 0 | 2 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 10 | 0 | 2 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 13 | 1 | 11 | 26 |
-| 360d | 2025-09-23 | 0 | 1 | 17 | 3 | 14 | 59 |
-| last720d | 2024-09-28 | 0 | 2 | 29 | 8 | 29 | 81 |
+| 30d | 2026-08-21 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 8 | 0 | 2 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 11 | 0 | 2 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 14 | 1 | 11 | 24 |
+| 360d | 2025-09-25 | 0 | 1 | 18 | 3 | 14 | 59 |
+| last720d | 2024-09-30 | 0 | 2 | 30 | 8 | 29 | 81 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for invoke lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:51:39Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:03:09Z._
