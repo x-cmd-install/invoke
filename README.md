@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 70 · **Open PRs**: 116 · **Closed issues**: 419 · **Open issues**: 353 · **Commits**: 3782
+- **Releases**: 0 · **Merged PRs**: 70 · **Open PRs**: 119 · **Closed issues**: 419 · **Open issues**: 353 · **Commits**: 3782
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-26 | 0 | 0 | 9 | 0 | 1 | 0 |
-| 90d | 2026-07-27 | 0 | 0 | 12 | 0 | 3 | 0 |
-| last180d | 2026-04-28 | 0 | 0 | 18 | 1 | 7 | 0 |
-| 360d | 2025-10-30 | 0 | 0 | 23 | 3 | 14 | 27 |
-| last720d | 2024-11-04 | 0 | 2 | 33 | 8 | 30 | 81 |
+| 30d | 2026-09-26 | 0 | 0 | 6 | 0 | 0 | 0 |
+| last60d | 2026-08-27 | 0 | 0 | 12 | 0 | 1 | 0 |
+| 90d | 2026-07-28 | 0 | 0 | 15 | 0 | 2 | 0 |
+| last180d | 2026-04-29 | 0 | 0 | 21 | 1 | 7 | 0 |
+| 360d | 2025-10-31 | 0 | 0 | 26 | 3 | 14 | 27 |
+| last720d | 2024-11-05 | 0 | 2 | 36 | 7 | 30 | 81 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for invoke lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:23:01Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:45:43Z._
