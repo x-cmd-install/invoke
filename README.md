@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,781 · **Forks**: 420 · **Open issues**: 771 · **Contributors**: 55
+- **Stars**: 4,781 · **Forks**: 421 · **Open issues**: 771 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 70 · **Open PRs**: 119 · **Closed issues**: 420 · **Open issues**: 351 · **Commits**: 3782
+- **Releases**: 0 · **Merged PRs**: 70 · **Open PRs**: 120 · **Closed issues**: 420 · **Open issues**: 351 · **Commits**: 3782
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-09-22 | 0 | 0 | 9 | 0 | 0 | 0 |
-| 90d | 2026-08-23 | 0 | 0 | 13 | 0 | 1 | 0 |
-| last180d | 2026-05-25 | 0 | 0 | 22 | 1 | 4 | 0 |
-| 360d | 2025-11-26 | 0 | 0 | 26 | 3 | 12 | 27 |
-| last720d | 2024-12-01 | 0 | 2 | 37 | 7 | 26 | 81 |
+| 30d | 2026-10-23 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-09-23 | 0 | 0 | 10 | 0 | 0 | 0 |
+| 90d | 2026-08-24 | 0 | 0 | 14 | 0 | 0 | 0 |
+| last180d | 2026-05-26 | 0 | 0 | 23 | 1 | 4 | 0 |
+| 360d | 2025-11-27 | 0 | 0 | 27 | 2 | 12 | 27 |
+| last720d | 2024-12-02 | 0 | 2 | 38 | 7 | 26 | 81 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for invoke lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:48:00Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:28:08Z._
