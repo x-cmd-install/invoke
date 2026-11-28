@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:23:36Z
+  collectedAt: 2026-11-28T08:24:10Z
 timeline:
   created: 2012-02-29
   lastCommit: 2026-04-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 4783
+  star: 4785
   watcher: 91
   fork: 421
   release: 0
@@ -28,7 +28,7 @@ language:
 totalBytes: 719550
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 4
@@ -36,7 +36,7 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 10
@@ -44,7 +44,7 @@ recent:
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 14
@@ -52,23 +52,23 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 0
-    openPR: 23
+    openPR: 22
     closedIssue: 0
     openIssue: 2
     commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 0
     openPR: 27
     closedIssue: 2
     openIssue: 10
-    commit: 27
+    commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 2
     openPR: 38
@@ -84,7 +84,7 @@ total:
   commit: 3782
 ---
 path: /home/runner/.x-repo/github.com/pyinvoke/invoke
-collectedAt: 2026-11-27T09:23:38Z
+collectedAt: 2026-11-28T08:24:11Z
 loc:
   Python:
     code: 19807
